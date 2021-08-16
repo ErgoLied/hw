@@ -2,11 +2,11 @@
     display: flex;
     justify-content: space-between;
 }
-.posts-box{
+.posts-box, .comms-box{
     width: 40%;
     margin: 5px;
 }
-.post-info{
+.post-info, .comm-info{
     width: 60%;
     margin: 5px;
 }

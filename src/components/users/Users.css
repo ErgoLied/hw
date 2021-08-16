@@ -1,0 +1,20 @@
+.wrap{
+    display: flex;
+    justify-content: space-between;
+}
+.wrap>div{
+    padding: 20px;
+    width: 50%;
+}
+.user-box{
+    background-color: lightblue;
+}
+.choose-usr{
+    background-color: aliceblue;
+}
+button{
+    margin: 10px;
+    text-transform: uppercase;
+    border-radius: 0;
+    border: 1px solid black;
+}
